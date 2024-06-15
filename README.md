@@ -42,5 +42,6 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:
     ```bash
     php artisan serve
 
-**Interfaz de Usuario**
+## Interfaz de Usuario
+
 La interfaz de usuario aún está en desarrollo. Actualmente, este repositorio solo incluye el backend de la aplicación CRUD. La interfaz se añadirá en futuras actualizaciones.
